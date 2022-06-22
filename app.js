@@ -16,3 +16,5 @@ function randomDomain() {
 }
 
 randomDomain();
+
+//yay!
